@@ -39,7 +39,3 @@ A beautiful and performant domain analytics dashboard created by Ansh Porwal. Th
 ## Author
 
 Created with ❤️ by Ansh Porwal
-
-## License
-
-MIT
